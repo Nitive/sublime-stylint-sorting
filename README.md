@@ -7,4 +7,6 @@ Sublime plugin to sort css properties by `sortOrder` rule in your `.stylintrc`.
 Clone repository into `Packages/` folder. (`~/Library/Application Support/Sublime Text 3/Packages/` for OS X)
 
 ## Usage
-Select lines to sort and press ⌘+⇧+H
+Select lines you want to sort and choose
+Selection > Stylint Sorting or press `alt+shift+M`
+
