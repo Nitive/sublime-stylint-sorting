@@ -30,7 +30,8 @@ def findStylintrc(path):
 		if (exists(stylintrcPath)):
 			return stylintrcPath
 		path = realpath(join(path, '..'))
-	raise Exception('.stylintrc not found')
+	print('.stylintrc not found. Using default config')
+	return join(dirname(__file__), '.stylintrc')
 
 
 
