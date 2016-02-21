@@ -10,6 +10,9 @@ Clone repository into `Packages/` folder. (`~/Library/Application Support/Sublim
 Select lines you want to sort and choose
 Selection > Stylint Sorting or press `alt+shift+M`
 
+## Updating
+Just pull changes from repository
+
 ## Customization hotkey
 Add `{ "keys": ["your+hotkey"], "command": "stylint_sorting" }`  
 to your keymap (Preferences > Key Binding – User)
