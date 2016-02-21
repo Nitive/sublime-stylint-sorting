@@ -61,7 +61,7 @@ def getConfig(path):
 
 
 
-class SortStylusCommand(sublime_plugin.TextCommand):
+class StylintSortingCommand(sublime_plugin.TextCommand):
 	def run(self, edit):
 		config = getConfig(self.view.file_name())
 		view = self.view

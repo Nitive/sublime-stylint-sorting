@@ -1,0 +1,3 @@
+[
+	{ "keys": ["alt+shift+m"], "command": "stylint_sorting" }
+]
