@@ -8,7 +8,7 @@ Clone repository into `Packages/` folder. (`~/Library/Application Support/Sublim
 
 ## Usage
 Select lines you want to sort and choose
-Selection > Stylint Sorting or press `alt+shift+M`
+Selection > Stylint Sorting or press `alt+shift+S`
 
 ## Updating
 Just pull changes from repository
